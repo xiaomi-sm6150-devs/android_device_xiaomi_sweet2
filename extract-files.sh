@@ -22,7 +22,7 @@ fi
 
 set -e
 
-export DEVICE=sweet
+export DEVICE=sweet2
 export DEVICE_COMMON=sm6150-common
 export VENDOR=xiaomi
 
