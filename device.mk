@@ -72,6 +72,7 @@ DEVICE_PACKAGE_OVERLAYS += \
 
 # Overlay-RRO
 PRODUCT_PACKAGES += \
+    FrameworkOverlayCOMMON \
     SweetWifiOverlay
 
 # Power
